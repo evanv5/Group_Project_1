@@ -17,6 +17,7 @@ The Employee entity stores staff details, including their name, contact informat
 
 <img width="1178" height="799" alt="Screenshot 2025-09-21 222752" src="https://github.com/user-attachments/assets/2f63668f-3a87-40b9-8bc8-1241b21218d8" />
 
+## Data Dictionary:
 
 ## Queries:
 #### 1. Query 1 retrieves all information about cars that are from 2021 and newer. If a customer wants a newer car this is a helpful query to be able to quickly retrieve the information about what cars are less than 5 years old.
