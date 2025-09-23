@@ -19,11 +19,11 @@ The Employee entity stores staff details, including their name, contact informat
 
 
 ## Queries:
-### 1. Query 1 retrieves all information about cars that are from 2021 and newer. If a customer wants a newer car this is a helpful query to be able to quickly retrieve the information about what cars are less than 5 years old.
+#### 1. Query 1 retrieves all information about cars that are from 2021 and newer. If a customer wants a newer car this is a helpful query to be able to quickly retrieve the information about what cars are less than 5 years old.
 <img width="791" height="279" alt="image" src="https://github.com/user-attachments/assets/ef6164b2-f3d4-48e0-a4e4-82084bd4dadc" />
 
 
-### 2. This query returns  the number of cars and their status, so that managers can easily see the number of vehicles they have sold, on hold, and available for purchase.
+##### 2. This query returns  the number of cars and their status, so that managers can easily see the number of vehicles they have sold, on hold, and available for purchase.
 <img width="630" height="261" alt="image" src="https://github.com/user-attachments/assets/4d498cf4-939b-41fd-983f-fa30dc981946" />
 
 
