@@ -65,7 +65,7 @@ performance, set goals, and identify if there needs to be additional training. â
 <img width="759" height="298" alt="image" src="https://github.com/user-attachments/assets/21c90813-ddf5-4f47-b99b-292b2c035534" />
 
 #### 9. This query allows managers to see what type of vehicle sells the best and the worst. Knowing this information allows the managers to make decisions about what types of vehicles to focus on in the future.
-<img width="1956" height="46" alt="image" src="https://github.com/user-attachments/assets/69216432-8330-481c-b367-8b2146b9e071" />
+
 
 
 ## Database Information 
