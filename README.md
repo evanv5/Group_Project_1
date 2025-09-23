@@ -63,7 +63,7 @@ The Employee entity stores staff details, including their name, contact informat
 #### 7. Query 7 gives the total sales for each brand so the managers know which brands are the most profitable and which are the least profitable.
 <img width="759" height="298" alt="image" src="https://github.com/user-attachments/assets/21c90813-ddf5-4f47-b99b-292b2c035534" />
 
-#### 8. Query 8 This query returns all vehicles that are priced higher than the average price of vehicles on the lot according to make, model, and list price. This query is useful because it allows managers to track how these vehicles sell in comparison to the others, and if there are any common denominators that could serve as the advantage. 
+#### 8. Query 8 returns all vehicles that are priced higher than the average price of vehicles on the lot according to make, model, and list price. This query is useful because it allows managers to track how these vehicles sell in comparison to the others, and if there are any common denominators that could serve as the advantage. 
 <img width="433" height="322" alt="image" src="https://github.com/user-attachments/assets/6c6abd68-3c18-49af-afa9-a6c1495cfbdd" />
 
 
