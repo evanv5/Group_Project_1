@@ -67,7 +67,7 @@ performance, set goals, and identify if there needs to be additional training. â
 
 
 ## Database Information 
-Name of the database: 
+Name of the database: project1_group6
 
 All queries are bookmarked through stored procedures and can be called using this format: CALL TP_Qx(); where 'x' is the query number.
 
