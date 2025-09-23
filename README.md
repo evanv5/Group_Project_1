@@ -18,64 +18,7 @@ The Employee entity stores staff details, including their name, contact informat
 <img width="1178" height="799" alt="Screenshot 2025-09-21 222752" src="https://github.com/user-attachments/assets/2f63668f-3a87-40b9-8bc8-1241b21218d8" />
 
 ## Data Dictionary:
-Column Name
 
-Description
-Data Type
-Size
-KeyVIN
-
-Unique Identifier for the vehicle
-VARCHAR
-17
-PKyear
-
-Year vehicle built
-INT
-4
-color
-
-Color of vehicle
-VARCHAR
-45
-mileage
-
-How many miles on vehicle
-INT
-6
-status
-
-Status of vehicle: available, sold, or on hold
-VARCHAR
-45
-price
-
-Price of vehicle
-DECIMAL
-(6,2)
-clean_title
-
-Whether vehicle has been in an accident: yes or no
-VARCHAR
-3
-previous_owners
-
-Number of previous owners
-INT
-
-
-
-
-
-model_id
-
-Unique model number for the vehicle
-INT
-
-
-
-
-FK
 <img width="786" height="338" alt="image" src="https://github.com/user-attachments/assets/3ee3cc8a-3e4e-4d31-a529-f7887e9ffbf2" />
 
 
