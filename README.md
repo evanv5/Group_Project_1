@@ -64,6 +64,8 @@ The Employee entity stores staff details, including their name, contact informat
 <img width="759" height="298" alt="image" src="https://github.com/user-attachments/assets/21c90813-ddf5-4f47-b99b-292b2c035534" />
 
 #### 8. Query 8 
+Query 8 returns all vehicles that are priced higher than the average price of vehicles on the lot allowing managers to track how these vehicles sell in comparison to the others.
+
 
 
 #### 9. Query 9 allows managers to see what type of vehicle sells the best and the worst. Knowing this information allows the managers to make decisions about what types of vehicles to focus on in the future.
