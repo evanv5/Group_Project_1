@@ -39,11 +39,11 @@ The Employee entity stores staff details, including their name, contact informat
 <img width="791" height="279" alt="image" src="https://github.com/user-attachments/assets/ef6164b2-f3d4-48e0-a4e4-82084bd4dadc" />
 
 
-#### 2. This query returns  the number of cars and their status, so that managers can easily see the number of vehicles they have sold, on hold, and available for purchase.
+#### 2. Query 2 returns  the number of cars and their status, so that managers can easily see the number of vehicles they have sold, on hold, and available for purchase.
 <img width="630" height="261" alt="image" src="https://github.com/user-attachments/assets/4d498cf4-939b-41fd-983f-fa30dc981946" />
 
 
-#### 3. This query returns the total sales categorized by each brand, showing the sale price as well as the number of vehicles sold. This query is useful to managers as it shows which brands are the most profitable and which are the least profitable. This could help them with strategic decisions regarding which cars to purchase from auctions that could generate a higher likelihood of sales, as well as the types of makes that are not as profitable. 
+#### 3. Query 3 returns the total sales categorized by each brand, showing the sale price as well as the number of vehicles sold. This query is useful to managers as it shows which brands are the most profitable and which are the least profitable. This could help them with strategic decisions regarding which cars to purchase from auctions that could generate a higher likelihood of sales, as well as the types of makes that are not as profitable. 
 <img width="598" height="261" alt="image" src="https://github.com/user-attachments/assets/f6443534-f80f-4cb5-9cb0-99854b88d54b" />
 
 
@@ -52,18 +52,18 @@ The Employee entity stores staff details, including their name, contact informat
 
 
 
-#### 5. This query allows managers to see what type of vehicle sells the best and the worst. The query retrieves that sedans are typically the highest selling, while trucks are the lowest selling. Knowing this information allows the managers to make strategic decisions on sales and learn more about what types of vehicles to focus on in the future.​
+#### 5. Query 5 allows managers to see what type of vehicle sells the best and the worst. The query retrieves that sedans are typically the highest selling, while trucks are the lowest selling. Knowing this information allows the managers to make strategic decisions on sales and learn more about what types of vehicles to focus on in the future.​
 <img width="387" height="391" alt="image" src="https://github.com/user-attachments/assets/9ddea430-798c-40d3-906e-11e31a19a9c4" />
 
 
 
-#### 6. This query returns the contact name and email of the vehicle manufacturer for a specific vehicle. This query is useful as it could be used by a manager who has a question about a vehicle and needs to get in contact with someone from the manufacturer to resolve an issue. ​
+#### 6. Query 6 returns the contact name and email of the vehicle manufacturer for a specific vehicle. This query is useful as it could be used by a manager who has a question about a vehicle and needs to get in contact with someone from the manufacturer to resolve an issue. ​
 <img width="457" height="366" alt="image" src="https://github.com/user-attachments/assets/d58763b5-982f-4c3f-854a-1df0bb19d0dc" />
 
 #### 7. Query 7 gives the total sales for each brand so the managers know which brands are the most profitable and which are the least profitable.
 <img width="759" height="298" alt="image" src="https://github.com/user-attachments/assets/21c90813-ddf5-4f47-b99b-292b2c035534" />
 
-#### 9. This query allows managers to see what type of vehicle sells the best and the worst. Knowing this information allows the managers to make decisions about what types of vehicles to focus on in the future.
+#### 9. Query 9 allows managers to see what type of vehicle sells the best and the worst. Knowing this information allows the managers to make decisions about what types of vehicles to focus on in the future.
 <img width="582" height="274" alt="image" src="https://github.com/user-attachments/assets/50ef2612-a383-482a-80ca-09ba652c4673" />
 
 #### 10. 
