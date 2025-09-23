@@ -25,6 +25,18 @@ The Employee entity stores staff details, including their name, contact informat
 <img width="1577" height="46" alt="image" src="https://github.com/user-attachments/assets/9548cb58-7e48-419f-ac1f-fe71709ee5a7" />
 
 
+3. Query 3 allows the manager to see which employees are top sellers by adding together the prices of the cars each employee has sold. This query allows managers to evaluate employee
+performance, set goals, and identify if there needs to be additional training. ​
+
+
+4. Query 4 allows managers to see the average price of cars that are available, sold, or on hold. It helps with pricing decisions and sales strategies, including determining which
+vehicles may need promotions or discounts. Additionally, the average price of available cars provides a snapshot of the current inventory value.​
+
+5. Query 5 shows models in inventory that have never been sold. This is useful for managers because it helps to identify models that are stagnant, and may need price adjustments, marketing, or even removal from the dealership. ​
+
+6. Query 6 allows managers to see higher performing employees by  retrieving employees who have sold cars with more than 2 previous owners OR without a clean title. These qualifications
+make it trickier for employees to sell those vehicles due to their less desirable qualities. Thus, employees who have sold those vehicles could have more potential for rewarding. ​
+
 
 
 
