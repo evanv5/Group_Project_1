@@ -21,8 +21,18 @@ The Employee entity stores staff details, including their name, contact informat
 
 #### Table:used_cars
 <img width="786" height="338" alt="image" src="https://github.com/user-attachments/assets/3ee3cc8a-3e4e-4d31-a529-f7887e9ffbf2" />
+
 #### Table:model
 <img width="784" height="276" alt="image" src="https://github.com/user-attachments/assets/246181a0-60df-459e-8766-5d665582604b" />
+
+#### Table: make
+<img width="692" height="312" alt="image" src="https://github.com/user-attachments/assets/620c0966-50b8-4725-9e87-5f45dbf39701" />
+
+#### Table: sales_transaction
+<img width="795" height="338" alt="image" src="https://github.com/user-attachments/assets/e08174b4-4b03-4068-9482-454903d84196" />
+
+#### Table: Employee
+<img width="831" height="288" alt="image" src="https://github.com/user-attachments/assets/238dfbf2-1898-4074-97f0-6f0a417194d9" />
 
 ## Queries:
 #### 1. Query 1 retrieves all information about cars that are from 2021 and newer. If a customer wants a newer car this is a helpful query to be able to quickly retrieve the information about what cars are less than 5 years old.
