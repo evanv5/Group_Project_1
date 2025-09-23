@@ -66,7 +66,7 @@ The Employee entity stores staff details, including their name, contact informat
 #### 9. Query 9 allows managers to see what type of vehicle sells the best and the worst. Knowing this information allows the managers to make decisions about what types of vehicles to focus on in the future.
 <img width="582" height="274" alt="image" src="https://github.com/user-attachments/assets/50ef2612-a383-482a-80ca-09ba652c4673" />
 
-#### 10. 
+#### 10. This query returns the contact name and email of the vehicle manufacturer for a specific vehicle. This query is useful as it could be used by a manager who has a question about a vehicle and needs to get in contact with someone from the manufacturer to resolve an issue. 
 <img width="545" height="197" alt="image" src="https://github.com/user-attachments/assets/cd0c2993-fee4-43c6-9286-85cf3e8c2504" />
 
 
