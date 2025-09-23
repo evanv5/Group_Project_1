@@ -39,7 +39,7 @@ The Employee entity stores staff details, including their name, contact informat
 <img width="791" height="279" alt="image" src="https://github.com/user-attachments/assets/ef6164b2-f3d4-48e0-a4e4-82084bd4dadc" />
 
 
-#### 2. Query 2 returns  the number of cars and their status, so that managers can easily see the number of vehicles they have sold, on hold, and available for purchase.
+#### 2. Query 2 returns  the number of cars and their status, so that managers can easily see the number of vehicles they have sold, on hold, and available for purchase. This query is useful to managers because it allows them to easily know their inventory from a general standpoint.
 <img width="630" height="261" alt="image" src="https://github.com/user-attachments/assets/4d498cf4-939b-41fd-983f-fa30dc981946" />
 
 
