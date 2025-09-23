@@ -32,8 +32,7 @@ performance, set goals, and identify if there needs to be additional training. �
 <img width="598" height="261" alt="image" src="https://github.com/user-attachments/assets/f6443534-f80f-4cb5-9cb0-99854b88d54b" />
 
 
-#### 4. Query 4 allows managers to see the average price of cars that are available, sold, or on hold. It helps with pricing decisions and sales strategies, including determining which
-vehicles may need promotions or discounts. Additionally, the average price of available cars provides a snapshot of the current inventory value.​
+#### 4. Query 4 allows managers to see the average price of cars that are available, sold, or on hold. It helps with pricing decisions and sales strategies, including determining which vehicles may need promotions or discounts. Additionally, the average price of available cars provides a snapshot of the current inventory value.​
 <img width="574" height="214" alt="image" src="https://github.com/user-attachments/assets/e82c2e44-e5cd-4a02-a303-7976aa3644db" />
 
 
@@ -43,13 +42,12 @@ vehicles may need promotions or discounts. Additionally, the average price of av
 
 
 
-#### 6. Query 6 allows managers to see higher performing employees by  retrieving employees who have sold cars with more than 2 previous owners OR without a clean title. These qualifications
-make it trickier for employees to sell those vehicles due to their less desirable qualities. Thus, employees who have sold those vehicles could have more potential for rewarding. ​
+#### 6. Query 6 allows managers to see higher performing employees by  retrieving employees who have sold cars with more than 2 previous owners OR without a clean title. These qualifications make it trickier for employees to sell those vehicles due to their less desirable qualities. Thus, employees who have sold those vehicles could have more potential for rewarding. ​
 <img width="457" height="366" alt="image" src="https://github.com/user-attachments/assets/d58763b5-982f-4c3f-854a-1df0bb19d0dc" />
 
 
 
-
+## Database Information 
 Name of the database: 
 
 All queries are bookmarked through stored procedures and can be called using this format: CALL TP_Qx(); where 'x' is the query number.
