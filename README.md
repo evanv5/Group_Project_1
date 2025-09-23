@@ -43,8 +43,7 @@ The Employee entity stores staff details, including their name, contact informat
 <img width="630" height="261" alt="image" src="https://github.com/user-attachments/assets/4d498cf4-939b-41fd-983f-fa30dc981946" />
 
 
-#### 3. Query 3 allows the manager to see which employees are top sellers by adding together the prices of the cars each employee has sold. This query allows managers to evaluate employee
-performance, set goals, and identify if there needs to be additional training. ​
+#### 3. This query returns the total sales categorized by each brand, showing the sale price as well as the number of vehicles sold. This query is useful to managers as it shows which brands are the most profitable and which are the least profitable. This could help them with strategic decisions regarding which cars to purchase from auctions that could generate a higher likelihood of sales, as well as the types of makes that are not as profitable. 
 <img width="598" height="261" alt="image" src="https://github.com/user-attachments/assets/f6443534-f80f-4cb5-9cb0-99854b88d54b" />
 
 
