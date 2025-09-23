@@ -19,8 +19,9 @@ The Employee entity stores staff details, including their name, contact informat
 
 ## Data Dictionary:
 
+#### Table:used_cars
 <img width="786" height="338" alt="image" src="https://github.com/user-attachments/assets/3ee3cc8a-3e4e-4d31-a529-f7887e9ffbf2" />
-
+#### Table:model
 <img width="784" height="276" alt="image" src="https://github.com/user-attachments/assets/246181a0-60df-459e-8766-5d665582604b" />
 
 ## Queries:
