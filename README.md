@@ -22,6 +22,7 @@ The Employee entity stores staff details, including their name, contact informat
 1. Query 1 retrieves all information about cars that are from 2021 and newer. If a customer wants a newer car this is a helpful query to be able to quickly retrieve the information about what cars are less than 5 years old.
 <img width="791" height="279" alt="image" src="https://github.com/user-attachments/assets/ef6164b2-f3d4-48e0-a4e4-82084bd4dadc" />
 
+
 2. This query returns  the number of cars and their status, so that managers can easily see the number of vehicles they have sold, on hold, and available for purchase.
 <img width="630" height="261" alt="image" src="https://github.com/user-attachments/assets/4d498cf4-939b-41fd-983f-fa30dc981946" />
 
@@ -36,8 +37,10 @@ vehicles may need promotions or discounts. Additionally, the average price of av
 <img width="574" height="214" alt="image" src="https://github.com/user-attachments/assets/e82c2e44-e5cd-4a02-a303-7976aa3644db" />
 
 
+
 5. Query 5 shows models in inventory that have never been sold. This is useful for managers because it helps to identify models that are stagnant, and may need price adjustments, marketing, or even removal from the dealership. ​
 <img width="387" height="391" alt="image" src="https://github.com/user-attachments/assets/9ddea430-798c-40d3-906e-11e31a19a9c4" />
+
 
 
 6. Query 6 allows managers to see higher performing employees by  retrieving employees who have sold cars with more than 2 previous owners OR without a clean title. These qualifications
