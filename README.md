@@ -1,4 +1,4 @@
-# Group_Project_1
+# MIST4610-Project1-Group6
 ## Team Members:
 1. Kern, Abigail ([@abbykern6](https://github.com/abbykern6))
 2. Um, Amber ([@asu34123](https://github.com/asu34123))
