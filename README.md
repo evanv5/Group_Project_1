@@ -63,6 +63,9 @@ The Employee entity stores staff details, including their name, contact informat
 #### 7. Query 7 gives the total sales for each brand so the managers know which brands are the most profitable and which are the least profitable.
 <img width="759" height="298" alt="image" src="https://github.com/user-attachments/assets/21c90813-ddf5-4f47-b99b-292b2c035534" />
 
+#### 8. Query 8 
+
+
 #### 9. Query 9 allows managers to see what type of vehicle sells the best and the worst. Knowing this information allows the managers to make decisions about what types of vehicles to focus on in the future.
 <img width="582" height="274" alt="image" src="https://github.com/user-attachments/assets/50ef2612-a383-482a-80ca-09ba652c4673" />
 
