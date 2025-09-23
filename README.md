@@ -21,6 +21,7 @@ The Employee entity stores staff details, including their name, contact informat
 
 <img width="786" height="338" alt="image" src="https://github.com/user-attachments/assets/3ee3cc8a-3e4e-4d31-a529-f7887e9ffbf2" />
 
+<img width="784" height="276" alt="image" src="https://github.com/user-attachments/assets/246181a0-60df-459e-8766-5d665582604b" />
 
 ## Queries:
 #### 1. Query 1 retrieves all information about cars that are from 2021 and newer. If a customer wants a newer car this is a helpful query to be able to quickly retrieve the information about what cars are less than 5 years old.
