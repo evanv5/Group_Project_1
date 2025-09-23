@@ -61,6 +61,9 @@ performance, set goals, and identify if there needs to be additional training. â
 #### 6. Query 6 allows managers to see higher performing employees by  retrieving employees who have sold cars with more than 2 previous owners OR without a clean title. These qualifications make it trickier for employees to sell those vehicles due to their less desirable qualities. Thus, employees who have sold those vehicles could have more potential for rewarding. â€‹
 <img width="457" height="366" alt="image" src="https://github.com/user-attachments/assets/d58763b5-982f-4c3f-854a-1df0bb19d0dc" />
 
+#### 7. Query 7 gives the total sales for each brand so the managers know which brands are the most profitable and which are the least profitable.
+<img width="759" height="298" alt="image" src="https://github.com/user-attachments/assets/21c90813-ddf5-4f47-b99b-292b2c035534" />
+
 
 
 ## Database Information 
