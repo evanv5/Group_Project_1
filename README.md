@@ -53,12 +53,12 @@ performance, set goals, and identify if there needs to be additional training. �
 
 
 
-#### 5. Query 5 shows models in inventory that have never been sold. This is useful for managers because it helps to identify models that are stagnant, and may need price adjustments, marketing, or even removal from the dealership. ​
+#### 5. This query allows managers to see what type of vehicle sells the best and the worst. The query retrieves that sedans are typically the highest selling, while trucks are the lowest selling. Knowing this information allows the managers to make strategic decisions on sales and learn more about what types of vehicles to focus on in the future.​
 <img width="387" height="391" alt="image" src="https://github.com/user-attachments/assets/9ddea430-798c-40d3-906e-11e31a19a9c4" />
 
 
 
-#### 6. Query 6 allows managers to see higher performing employees by  retrieving employees who have sold cars with more than 2 previous owners OR without a clean title. These qualifications make it trickier for employees to sell those vehicles due to their less desirable qualities. Thus, employees who have sold those vehicles could have more potential for rewarding. ​
+#### 6. This query returns the contact name and email of the vehicle manufacturer for a specific vehicle. This query is useful as it could be used by a manager who has a question about a vehicle and needs to get in contact with someone from the manufacturer to resolve an issue. ​
 <img width="457" height="366" alt="image" src="https://github.com/user-attachments/assets/d58763b5-982f-4c3f-854a-1df0bb19d0dc" />
 
 #### 7. Query 7 gives the total sales for each brand so the managers know which brands are the most profitable and which are the least profitable.
