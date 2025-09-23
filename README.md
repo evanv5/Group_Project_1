@@ -78,6 +78,8 @@ The Employee entity stores staff details, including their name, contact informat
 ## Database Information 
 Name of the database: project1_group6
 
+<img width="829" height="256" alt="image" src="https://github.com/user-attachments/assets/3938534c-ea2f-4c75-becd-4cf0497383ad" />
+
 All queries are bookmarked through stored procedures and can be called using this format: CALL TP_Qx(); where 'x' is the query number.
 
 
