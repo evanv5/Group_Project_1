@@ -1,6 +1,6 @@
 # Group_Project_1
 ## Team Members:
-1. Kern, Abigal
+1. Kern, Abigail 
 2. Um, Amber (@asu34123)
 4. Voss, Evan
 ## Problem Description:
